@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@components, @pages, @styles,@utils, @hooks/*": ["./src/*"]
+    }
+  }
+}
